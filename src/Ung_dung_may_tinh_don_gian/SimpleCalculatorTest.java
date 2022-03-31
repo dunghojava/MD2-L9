@@ -1,7 +1,6 @@
-package com.codegym;
-
-import org.junit.Test;
+package Ung_dung_may_tinh_don_gian;
 import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Test;
 
 
 import static org.junit.jupiter.api.Assertions.*;

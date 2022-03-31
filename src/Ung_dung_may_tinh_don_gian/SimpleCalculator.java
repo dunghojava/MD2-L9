@@ -1,4 +1,4 @@
-package com.codegym;
+package Ung_dung_may_tinh_don_gian;
 
 public class SimpleCalculator {
     public static int add(int first, int second){
